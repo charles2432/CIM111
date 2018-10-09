@@ -1,0 +1,86 @@
+body{ background-color: grey;
+
+}
+
+a:hover {
+    color: red;
+}
+
+
+  .Hobbies {
+    background-color: blue;
+    width: 200px;
+    border: 10px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+
+  .Education {
+    background-color: silver;
+    width: 200px;
+    border: 10px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+
+  .Experience {
+    background-color: blue;
+    width: 200px;
+    border: 10px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+
+  .Links {
+    background-color: white;
+    width: 200px;
+    border: 10px solid blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+
+font-family: "Courier New", Courier, monospace;
+text-align: center;
+color: #0ebd44;
+
+}
+
+h3 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+  color: #8713d7;
+}
+
+h1 {
+    text-align: center;
+      color: #0695f2;
+
+}
+
+#myheader {
+
+  background-color: blue ;
+  color: red ;
+  padding: 10px ;
+  text-align: center;
+  font-size: 70px ;
+  border-style: dotted;
+  border-width: 10px;
+  border-height: 10px;
+  border-color: #37de22;
+
+}
+
+#centeraddress {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  background-color: grey;
+}
